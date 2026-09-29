@@ -1,5 +1,5 @@
 [project]
-name = "excel-mcp-server"
+name = "excel-mcp-server-fixture-nn"
 version = "0.1.8"
 description = "Excel MCP Server for manipulating Excel files"
 readme = "README.md"
